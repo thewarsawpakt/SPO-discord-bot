@@ -1,0 +1,771 @@
+{
+	"data":{
+		"platformInfo":{
+			"platformSlug":"uplay",
+			"platformUserId":"bcaa8dd2-bd85-4c5e-a17b-77bae0334e55",
+			"platformUserHandle":"war.saw.pakt",
+			"platformUserIdentifier":"war.saw.pakt",
+			"avatarUrl":"https://ubisoft-avatars.akamaized.net/bcaa8dd2-bd85-4c5e-a17b-77bae0334e55/default_146_146.png",
+			"additionalParameters":"None"
+		},
+		"userInfo":{
+			"userId":"None",
+			"isPremium":False,
+			"isVerified":False,
+			"isInfluencer":False,
+			"countryCode":"None",
+			"customAvatarUrl":"None",
+			"customHeroUrl":"None",
+			"socialAccounts":"None"
+		},
+		"metadata":{
+
+		},
+		"segments":[
+			{
+				"type":"overview",
+				"attributes":{
+
+				},
+				"metadata":{
+					"name":"Lifetime"
+				},
+				"expiryDate":"2020-07-24T04:42:08.8561114+00:00",
+				"stats":{
+					"timePlayed":{
+						"rank":"None",
+						"percentile":63.0,
+						"displayName":"Time Played",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":697735,
+						"displayValue":"8d 01h 48m",
+						"displayType":"TimeSeconds"
+					},
+					"killsPvP":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"PvP Kills",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":0,
+						"displayValue":"0",
+						"displayType":"Number"
+					},
+					"killsNpc":{
+						"rank":"None",
+						"percentile":73.0,
+						"displayName":"NPC Kills",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":22601,
+						"displayValue":"22,601",
+						"displayType":"Number"
+					},
+					"killsSkill":{
+						"rank":"None",
+						"percentile":56.0,
+						"displayName":"Skill Kills",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":1207,
+						"displayValue":"1,207",
+						"displayType":"Number"
+					},
+					"headshots":{
+						"rank":"None",
+						"percentile":73.0,
+						"displayName":"Headshots",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":53167,
+						"displayValue":"53,167",
+						"displayType":"Number"
+					},
+					"itemsLooted":{
+						"rank":"None",
+						"percentile":52.0,
+						"displayName":"Items Looted",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":2685,
+						"displayValue":"2,685",
+						"displayType":"Number"
+					},
+					"xPTotal":{
+						"rank":"None",
+						"percentile":63.0,
+						"displayName":"Total XP",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":95078928,
+						"displayValue":"95,078,928",
+						"displayType":"Number"
+					},
+					"xPClan":{
+						"rank":"None",
+						"percentile":73.0,
+						"displayName":"Clan XP",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":74589497,
+						"displayValue":"74,589,497",
+						"displayType":"Number"
+					},
+					"specialization":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Specialization",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":"Survivalist",
+						"displayValue":"Survivalist",
+						"displayType":"String"
+					},
+					"killsSpecializationSharpshooter":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Sharpshooter Kills",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":0,
+						"displayValue":"0",
+						"displayType":"Number"
+					},
+					"killsSpecializationSurvivalist":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Survivalist Kills",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":10194,
+						"displayValue":"10,194",
+						"displayType":"Number"
+					},
+					"killsSpecializationDemolitionist":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Demolitionist Kills",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":1715,
+						"displayValue":"1,715",
+						"displayType":"Number"
+					},
+					"eCreditBalance":{
+						"rank":"None",
+						"percentile":10.0,
+						"displayName":"E-Credit Balance",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":1031,
+						"displayValue":"1,031",
+						"displayType":"Number"
+					},
+					"commendationCount":{
+						"rank":"None",
+						"percentile":60.0,
+						"displayName":"Commendations",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":79,
+						"displayValue":"79",
+						"displayType":"Number"
+					},
+					"commendationScore":{
+						"rank":"None",
+						"percentile":27.0,
+						"displayName":"Curr Comm. Score",
+						"displayCategory":"General",
+						"category":"general",
+						"metadata":{
+
+						},
+						"value":140,
+						"displayValue":"140",
+						"displayType":"Number"
+					},
+					"latestGearScore":{
+						"rank":"None",
+						"percentile":79.0,
+						"displayName":"Gear Score",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":917,
+						"displayValue":"917",
+						"displayType":"Number"
+					},
+					"highestPlayerLevel":{
+						"rank":"None",
+						"percentile":73.0,
+						"displayName":"Player Level",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":31,
+						"displayValue":"31",
+						"displayType":"Number"
+					},
+					"xPPve":{
+						"rank":"None",
+						"percentile":47.0,
+						"displayName":"PvE XP",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":20175568,
+						"displayValue":"20,175,568",
+						"displayType":"Number"
+					},
+					"timePlayedPve":{
+						"rank":"None",
+						"percentile":64.0,
+						"displayName":"Time Played",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":668044,
+						"displayValue":"7d 17h 34m",
+						"displayType":"TimeSeconds"
+					},
+					"killsRoleElite":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Elite Kills",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":0,
+						"displayValue":"0",
+						"displayType":"Number"
+					},
+					"killsRoleNamed":{
+						"rank":"None",
+						"percentile":72.0,
+						"displayName":"Named Kills",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":549,
+						"displayValue":"549",
+						"displayType":"Number"
+					},
+					"killsFactionBlackbloc":{
+						"rank":"None",
+						"percentile":65.0,
+						"displayName":"Hyena Kills",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":3821,
+						"displayValue":"3,821",
+						"displayType":"Number"
+					},
+					"killsFactionCultists":{
+						"rank":"None",
+						"percentile":68.0,
+						"displayName":"OutCasts Kills",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":3630,
+						"displayValue":"3,630",
+						"displayType":"Number"
+					},
+					"killsFactionMilitia":{
+						"rank":"None",
+						"percentile":74.0,
+						"displayName":"TrueSons Kills",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":5417,
+						"displayValue":"5,417",
+						"displayType":"Number"
+					},
+					"killsFactionEndgame":{
+						"rank":"None",
+						"percentile":68.0,
+						"displayName":"BlackTusk Kills",
+						"displayCategory":"PvE",
+						"category":"pve",
+						"metadata":{
+
+						},
+						"value":5322,
+						"displayValue":"5,322",
+						"displayType":"Number"
+					},
+					"rankDZ":{
+						"rank":"None",
+						"percentile":67.0,
+						"displayName":"DZ Level",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":43,
+						"displayValue":"43",
+						"displayType":"Number"
+					},
+					"xPDZ":{
+						"rank":"None",
+						"percentile":67.0,
+						"displayName":"DZ XP",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":301903,
+						"displayValue":"301,903",
+						"displayType":"Number"
+					},
+					"timePlayedDarkZone":{
+						"rank":"None",
+						"percentile":65.0,
+						"displayName":"Time Played",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":29151,
+						"displayValue":"8h 05m 51s",
+						"displayType":"TimeSeconds"
+					},
+					"roguesKilled":{
+						"rank":"None",
+						"percentile":75.0,
+						"displayName":"Rogues Killed",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":8,
+						"displayValue":"8",
+						"displayType":"Number"
+					},
+					"timePlayedRogue":{
+						"rank":"None",
+						"percentile":50.0,
+						"displayName":"Rogue Time Played",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":659,
+						"displayValue":"10m 59s",
+						"displayType":"TimeSeconds"
+					},
+					"timePlayedRogueLongest":{
+						"rank":"None",
+						"percentile":44.0,
+						"displayName":"Rogue Longest Time Played",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":143,
+						"displayValue":"02m 23s",
+						"displayType":"TimeSeconds"
+					},
+					"killsFactionDzBlackbloc":{
+						"rank":"None",
+						"percentile":57.0,
+						"displayName":"Hyena Kills",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":84,
+						"displayValue":"84",
+						"displayType":"Number"
+					},
+					"killsFactionDzCultists":{
+						"rank":"None",
+						"percentile":0.0,
+						"displayName":"OutCasts Kills",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":172,
+						"displayValue":"172",
+						"displayType":"Number"
+					},
+					"killsFactionDzMilitia":{
+						"rank":"None",
+						"percentile":60.0,
+						"displayName":"TrueSons Kills",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":100,
+						"displayValue":"100",
+						"displayType":"Number"
+					},
+					"killsFactionDzEndgame":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"BlackTusk Kills",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":0,
+						"displayValue":"0",
+						"displayType":"Number"
+					},
+					"killsRoleDzElite":{
+						"rank":"None",
+						"percentile":71.0,
+						"displayName":"Elite Kills",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":309,
+						"displayValue":"309",
+						"displayType":"Number"
+					},
+					"killsRoleDzNamed":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Named Kills",
+						"displayCategory":"Dark Zone",
+						"category":"darkZone",
+						"metadata":{
+
+						},
+						"value":0,
+						"displayValue":"0",
+						"displayType":"Number"
+					},
+					"latestConflictRank":{
+						"rank":"None",
+						"percentile":79.0,
+						"displayName":"Conflict Rank",
+						"displayCategory":"Conflict PvP",
+						"category":"conflictPvp",
+						"metadata":{
+
+						},
+						"value":6,
+						"displayValue":"6",
+						"displayType":"Number"
+					},
+					"xPPvp":{
+						"rank":"None",
+						"percentile":81.0,
+						"displayName":"Conflict XP",
+						"displayCategory":"Conflict PvP",
+						"category":"conflictPvp",
+						"metadata":{
+
+						},
+						"value":11960,
+						"displayValue":"11,960",
+						"displayType":"Number"
+					},
+					"timePlayedConflict":{
+						"rank":"None",
+						"percentile":63.0,
+						"displayName":"Time Played",
+						"displayCategory":"Conflict PvP",
+						"category":"conflictPvp",
+						"metadata":{
+
+						},
+						"value":540,
+						"displayValue":"09m 00s",
+						"displayType":"TimeSeconds"
+					},
+					"killsBleeding":{
+						"rank":"None",
+						"percentile":43.0,
+						"displayName":"Bleeding Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":123,
+						"displayValue":"123",
+						"displayType":"Number"
+					},
+					"killsBurning":{
+						"rank":"None",
+						"percentile":46.0,
+						"displayName":"Burning Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":293,
+						"displayValue":"293",
+						"displayType":"Number"
+					},
+					"killsShocked":{
+						"rank":"None",
+						"percentile":75.0,
+						"displayName":"Shocked Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":199,
+						"displayValue":"199",
+						"displayType":"Number"
+					},
+					"killsEnsnare":{
+						"rank":"None",
+						"percentile":70.0,
+						"displayName":"Ensnare Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":66,
+						"displayValue":"66",
+						"displayType":"Number"
+					},
+					"killsHeadshot":{
+						"rank":"None",
+						"percentile":67.0,
+						"displayName":"Headshot Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":3444,
+						"displayValue":"3,444",
+						"displayType":"Number"
+					},
+					"killsWeaponShotgun":{
+						"rank":"None",
+						"percentile":41.0,
+						"displayName":"Shotgun Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":75,
+						"displayValue":"75",
+						"displayType":"Number"
+					},
+					"killsWeaponSubMachinegun":{
+						"rank":"None",
+						"percentile":68.0,
+						"displayName":"SMG Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":1053,
+						"displayValue":"1,053",
+						"displayType":"Number"
+					},
+					"killsWeaponMounted":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Turret Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":0,
+						"displayValue":"0",
+						"displayType":"Number"
+					},
+					"killsWeaponPistol":{
+						"rank":"None",
+						"percentile":75.0,
+						"displayName":"Pistol Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":224,
+						"displayValue":"224",
+						"displayType":"Number"
+					},
+					"killsWeaponRifle":{
+						"rank":"None",
+						"percentile":86.0,
+						"displayName":"Rifle Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":228,
+						"displayValue":"228",
+						"displayType":"Number"
+					},
+					"killsWeaponGrenade":{
+						"rank":"None",
+						"percentile":40.0,
+						"displayName":"Grenade Kills",
+						"displayCategory":"Kills",
+						"category":"kills",
+						"metadata":{
+
+						},
+						"value":63,
+						"displayValue":"63",
+						"displayType":"Number"
+					},
+					"itemsLootedPerMin":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Items Looted/Min",
+						"displayCategory":"",
+						"category":"None",
+						"metadata":{
+
+						},
+						"value":0.0,
+						"displayValue":"0.00",
+						"displayType":"NumberPrecision2"
+					},
+					"killsPvPPerMin":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"PvP Kills/Min",
+						"displayCategory":"",
+						"category":"None",
+						"metadata":{
+
+						},
+						"value":0.0,
+						"displayValue":"0.00",
+						"displayType":"NumberPrecision2"
+					},
+					"killsNpcPerMin":{
+						"rank":"None",
+						"percentile":70.0,
+						"displayName":"NPC Kills/Min",
+						"displayCategory":"",
+						"category":"None",
+						"metadata":{
+
+						},
+						"value":0.03,
+						"displayValue":"0.03",
+						"displayType":"NumberPrecision2"
+					},
+					"playersKilled":{
+						"rank":"None",
+						"percentile":61.0,
+						"displayName":"Players Killed",
+						"displayCategory":"",
+						"category":"None",
+						"metadata":{
+
+						},
+						"value":13,
+						"displayValue":"13",
+						"displayType":"Number"
+					},
+					"killsSkillPerMin":{
+						"rank":"None",
+						"percentile":"None",
+						"displayName":"Skill Kills/Min",
+						"displayCategory":"",
+						"category":"None",
+						"metadata":{
+
+						},
+						"value":0.0,
+						"displayValue":"0.00",
+						"displayType":"NumberPrecision2"
+					}
+				}
+			}
+		],
+		"availableSegments":[
+
+		],
+		"expiryDate":"2020-07-24T04:42:08.8561114+00:00"
+	}
+}

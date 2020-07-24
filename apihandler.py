@@ -15,18 +15,18 @@ def getProfile(profile):
         error = discord.Embed(name="Error: ", title="That user does not exist!", color=0xff0000)
         error.add_field(name="Error: ", value="User does not exist.")
         return error
-    body = discord.Embed(name="Division 2 stats", title=f"Stats for {json['platformInfo']['platformUserHandle']}", color=0x0080ff)
+    body = discord.Embed(name="Division 2 stats", title=f"Stats for {json['platformInfo']['platformUserHandle']} (Click Here for More info)", color=0x0080ff, url=f"https://tracker.gg/division-2/profile/uplay/{profile}/overview")
     body.set_thumbnail(url=f"{json['platformInfo']['avatarUrl']}")
     body.add_field(name="-- Basic Stats -- ",value=f"""Uplay Name: {json['platformInfo']['platformUserHandle']}
-    Time Played: {json['segments'][0]['stats']['timePlayed']['displayValue']}
-    DZ Rank: {json['segments'][0]['stats']['rankDZ']['value']}
-    Highest Player Level (On most recently created character): {json['segments'][0]['stats']['highestPlayerLevel']['displayValue']}
-    NPC Kills:  {json['segments'][0]['stats']['killsNpc']['displayValue']}""")
+        Time Played: {json['segments'][0]['stats']['timePlayed']['displayValue']}
+        DZ Rank: {json['segments'][0]['stats']['rankDZ']['value']}
+        Highest Player Level (On most recently created character): {json['segments'][0]['stats']['highestPlayerLevel']['displayValue']}
+        NPC Kills:  {json['segments'][0]['stats']['killsNpc']['displayValue']}""")
     body.add_field(name="-- Advanced Stats --", value=f"""
-    Hyena Enemies Killed: {json['segments'][0]['stats']['killsFactionBlackbloc']['displayValue']}
-    Outcast Enemies Killed: {json['segments'][0]['stats']['killsFactionCultists']['displayValue']}
-    True Son Enemies Killed: {json['segments'][0]['stats']['killsFactionMilitia']['displayValue']}
-    Black Tusk Enemies Killed: {json['segments'][0]['stats']['killsFactionEndgame']['displayValue']}
+        Hyena Enemies Killed: {json['segments'][0]['stats']['killsFactionBlackbloc']['displayValue']}
+        Outcast Enemies Killed: {json['segments'][0]['stats']['killsFactionCultists']['displayValue']}
+        True Son Enemies Killed: {json['segments'][0]['stats']['killsFactionMilitia']['displayValue']}
+        Black Tusk Enemies Killed: {json['segments'][0]['stats']['killsFactionEndgame']['displayValue']}
     """)
     return body
 

@@ -1,7 +1,7 @@
 import discord 
 from discord.ext import commands
 import database
-
+from apihandler import getProfile
 with open("token", "r") as token_file:
     TOKEN = token_file.read()
     token_file.close()
@@ -17,11 +17,14 @@ async def on_ready():
 @client.event   
 async def on_member_join(member: discord.Member):
     database.CreateUser(member.id, member.name)
-
+    
 @client.command()
-async def ping(ctx):
-    latency = round(client.latency, 4)*1000
-    await ctx.send(f"Bot's latency is {latency}ms")
-
+async def profile(ctx, playername):
+    if not playername:
+        await ctx.send("Please enter a player name.")
+        return
+    data = getProfile(playername)
+    await ctx.send(embed=data)
+    
 
 client.run(TOKEN)

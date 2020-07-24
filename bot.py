@@ -1,6 +1,5 @@
 import discord 
 from discord.ext import commands
-import database
 from apihandler import getProfile
 with open("token", "r") as token_file:
     TOKEN = token_file.read()
